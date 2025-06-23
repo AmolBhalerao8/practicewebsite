@@ -307,11 +307,7 @@ sum(is.na(tmp2$units))
 
 ## Non-Academic Workload
 
-```{r}
-table(BNSp2b$NonAcademic, useNA = "always")
-str(BNSp2b$NonAcademic)
 
-```
 ```{r}
 BNSp2b <- BNSp2b %>%
   mutate(
@@ -355,10 +351,7 @@ gghistogram(
 tmp <- tmp2 %>% filter(TotalHours > 0)
 ```
 
-```{r}
-table(tmp2$units, useNA = "ifany")
 
-```
 
 ```{r}
 tmp2$paid_work_hours_clean <- BNSp2b$paid_work_hours_clean

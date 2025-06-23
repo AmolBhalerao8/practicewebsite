@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+  
+
+# blue - 2b388f
+# purple - 
+
+website:
+  title: "BNS3 Statewide"
+  navbar:
+    background: "#702b84"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Workload.qmd
+        text: Workload
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - styles.css
+    toc: true
+    toc_float: yes
+    
+    
+    

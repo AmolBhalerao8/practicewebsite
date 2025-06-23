@@ -11,7 +11,7 @@
     "href": "workload.html#weekly-paid-work-hours",
     "title": "Workload",
     "section": "Weekly Paid Work Hours",
-    "text": "Weekly Paid Work Hours\n\n\n\n\n\n\n\n\n\n\n\n[1] 20\n\n\nSurvey Question: Estimate the number of hours you work in a PAID job (e.g. server at a restaurant, office assistant, etc.) or paid internship (e.g. training, shadowing, or practicum) per week.\nSummary: Students reported a wide range of paid work hours per week with an average of NA hours (denoted by the dotted line) and a median of 16-20. The majority of students worked either part-time or not at all. Only 51 (13.2%) students were considered to be working full-time (40 or more hours per week)."
+    "text": "Weekly Paid Work Hours\n\n\n\n\n\n\n\n\n\nSurvey Question: Estimate the number of hours you work in a PAID job (e.g. server at a restaurant, office assistant, etc.) or paid internship (e.g. training, shadowing, or practicum) per week.\nSummary: Students reported a wide range of paid work hours per week with an average of NA hours (denoted by the dotted line) and a median of 16-20. The majority of students worked either part-time or not at all. Only 51 (13.2%) students were considered to be working full-time (40 or more hours per week)."
   },
   {
     "objectID": "workload.html#impact-of-covid",
@@ -39,7 +39,7 @@
     "href": "workload.html#academic-workload",
     "title": "Workload",
     "section": "Academic Workload",
-    "text": "Academic Workload\n\n\n\n\n\nFigure 3.2. Academic Workload (n=393, 97% of 407 reporting).\n\n\n\n\n\n\n[1] 17\n\n\nSurvey Question: How many units are you currently taking?\nAdditional Notes: The hours of academic work per week were estimated by assuming 3 hours of work per unit.\nSummary: The average number of academic hours worked per week was 40.8 hours (denoted by the dotted line), while the median was 42. A total of 206 (52.8%) students spent 40 or more hours per week on academic work."
+    "text": "Academic Workload\n\n\n\n\n\nFigure 3.2. Academic Workload (n=393, 97% of 407 reporting).\n\n\n\n\nSurvey Question: How many units are you currently taking?\nAdditional Notes: The hours of academic work per week were estimated by assuming 3 hours of work per unit.\nSummary: The average number of academic hours worked per week was 40.8 hours (denoted by the dotted line), while the median was 42. A total of 206 (52.8%) students spent 40 or more hours per week on academic work."
   },
   {
     "objectID": "workload.html#non-academic-workload",
@@ -54,5 +54,201 @@
     "title": "Workload",
     "section": "Total Workload",
     "text": "Total Workload\n\n\n\n\n\n\n\n\n\nSurvey Question: This variable was derived by taking the sum of students’ paid work hours, unpaid work hours, caregiving hours, and hours spent from academic activities (assuming 3 hours per unit taken).\nAdditional Notes: Total workload was calculated only for students who reported their paid work hours, unpaid work hours, caregiving hours, and units.\nSummary: The average number of total hours worked per week was 73.55 hours (denoted by the dotted line), while the median was 70.5 hours. A total of 367 (94.1%) students spent 40 or more hours per week on academic and non-academic work, while 145 (37.2%) spent 80 or more hours."
+  },
+  {
+    "objectID": "practicewebsite/workload.html",
+    "href": "practicewebsite/workload.html",
+    "title": "Workload",
+    "section": "",
+    "text": "Students were asked to report information regarding their workload. This includes work from both paid/unpaid jobs, academic work, as well as time spent caregiving for any family members.\nSee Information on Missing Data"
+  },
+  {
+    "objectID": "practicewebsite/workload.html#weekly-paid-work-hours",
+    "href": "practicewebsite/workload.html#weekly-paid-work-hours",
+    "title": "Workload",
+    "section": "Weekly Paid Work Hours",
+    "text": "Weekly Paid Work Hours\n\n\n\n\n\n\n\n\n\n\n\n[1] 20\n\n\nSurvey Question: Estimate the number of hours you work in a PAID job (e.g. server at a restaurant, office assistant, etc.) or paid internship (e.g. training, shadowing, or practicum) per week.\nSummary: Students reported a wide range of paid work hours per week with an average of NA hours (denoted by the dotted line) and a median of 16-20. The majority of students worked either part-time or not at all. Only 51 (13.2%) students were considered to be working full-time (40 or more hours per week)."
+  },
+  {
+    "objectID": "practicewebsite/workload.html#impact-of-covid",
+    "href": "practicewebsite/workload.html#impact-of-covid",
+    "title": "Workload",
+    "section": "Impact of COVID",
+    "text": "Impact of COVID\n\n\n\n\n\nFigure 3.1. Impact of COVID (n=366, 90% of 407 reporting).\n\n\n\n\nSurvey Question: Have the hours you work in a PAID job or internship changed due to COVID-19?\nSummary: A total of 73 (19.9%) students reported not working prior to COVID, while 87 (23.8%) reported that their hours have not changed due to COVID. There were 108 (29.5%) students that had their hours decreased, 68 (18.6%) that no longer had a job/internship, and 30 (8.2%) that had their hours increased."
+  },
+  {
+    "objectID": "practicewebsite/workload.html#unpaid-work-hours",
+    "href": "practicewebsite/workload.html#unpaid-work-hours",
+    "title": "Workload",
+    "section": "Unpaid Work Hours",
+    "text": "Unpaid Work Hours\n\n\n\n\n\n\n\n\n\nSurvey Question: Estimate the number of hours you work in an UNPAID internship (e.g. training, shadowing, practicum, and/or volunteer, etc.) per week. Do not combine with answers above.\nSummary: The average number of unpaid work hours was NA (denoted by the dotted line) and the median was 0. A total of 296 (76.9%) students did not work at an unpaid job/internship, while 60 (15.6%) students reported working 10 or more unpaid hours every week."
+  },
+  {
+    "objectID": "practicewebsite/workload.html#unpaid-caregiving-hours",
+    "href": "practicewebsite/workload.html#unpaid-caregiving-hours",
+    "title": "Workload",
+    "section": "Unpaid Caregiving Hours",
+    "text": "Unpaid Caregiving Hours\n\n\n\n\n\n\n\n\n\nSurvey Question: Estimate the number of hours you spend each week on UNPAID family obligations (e.g. taking care of younger siblings, preparing family meals, running errands for the family, etc.) per week.\nSummary: A total of 0 (NA) students spent time each week caring for family members with an average of NA hours (denoted by the dotted line) and a median of 16-20. There were 59 (15.2%) students that reported spending zero hours per week on family obligations, while 131 (33.9%) reported spending 40 or more hours each week."
+  },
+  {
+    "objectID": "practicewebsite/workload.html#academic-workload",
+    "href": "practicewebsite/workload.html#academic-workload",
+    "title": "Workload",
+    "section": "Academic Workload",
+    "text": "Academic Workload\n\n\n\n\n\nFigure 3.2. Academic Workload (n=393, 97% of 407 reporting).\n\n\n\n\n\n\n[1] 17\n\n\nSurvey Question: How many units are you currently taking?\nAdditional Notes: The hours of academic work per week were estimated by assuming 3 hours of work per unit.\nSummary: The average number of academic hours worked per week was 40.8 hours (denoted by the dotted line), while the median was 42. A total of 206 (52.8%) students spent 40 or more hours per week on academic work."
+  },
+  {
+    "objectID": "practicewebsite/workload.html#non-academic-workload",
+    "href": "practicewebsite/workload.html#non-academic-workload",
+    "title": "Workload",
+    "section": "Non-Academic Workload",
+    "text": "Non-Academic Workload\n\n\n\n\n\n\n\n\n\nSurvey Question: This variable was derived by taking the sum of students’ paid work hours, unpaid work hours, and caregiving hours.\nAdditional Notes: Non-academic workload was calculated only for students who reported their paid work hours, unpaid work hours, and caregiving hours.\nSummary: The average total number of hours worked per week in non-academic matters was 0 hours (denoted by the dotted line), while the median was 0 hours. A total of 0 (0.0%) students spent 40 or more hours per week on non-academic work."
+  },
+  {
+    "objectID": "practicewebsite/workload.html#total-workload",
+    "href": "practicewebsite/workload.html#total-workload",
+    "title": "Workload",
+    "section": "Total Workload",
+    "text": "Total Workload\n\n\n\n\n\n\n\n\n\nSurvey Question: This variable was derived by taking the sum of students’ paid work hours, unpaid work hours, caregiving hours, and hours spent from academic activities (assuming 3 hours per unit taken).\nAdditional Notes: Total workload was calculated only for students who reported their paid work hours, unpaid work hours, caregiving hours, and units.\nSummary: The average number of total hours worked per week was 73.55 hours (denoted by the dotted line), while the median was 70.5 hours. A total of 367 (94.1%) students spent 40 or more hours per week on academic and non-academic work, while 145 (37.2%) spent 80 or more hours."
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html",
+    "href": "practicewebsite/docs/Workload.html",
+    "title": "Workload",
+    "section": "",
+    "text": "Students were asked to report information regarding their workload. This includes work from both paid/unpaid jobs, academic work, as well as time spent caregiving for any family members.\nSee Information on Missing Data"
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html#weekly-paid-work-hours",
+    "href": "practicewebsite/docs/Workload.html#weekly-paid-work-hours",
+    "title": "Workload",
+    "section": "Weekly Paid Work Hours",
+    "text": "Weekly Paid Work Hours\n\n\n\n\n\n\n\n\n\n\n\n[1] 20\n\n\nSurvey Question: Estimate the number of hours you work in a PAID job (e.g. server at a restaurant, office assistant, etc.) or paid internship (e.g. training, shadowing, or practicum) per week.\nSummary: Students reported a wide range of paid work hours per week with an average of NA hours (denoted by the dotted line) and a median of 16-20. The majority of students worked either part-time or not at all. Only 51 (13.2%) students were considered to be working full-time (40 or more hours per week)."
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html#impact-of-covid",
+    "href": "practicewebsite/docs/Workload.html#impact-of-covid",
+    "title": "Workload",
+    "section": "Impact of COVID",
+    "text": "Impact of COVID\n\n\n\n\n\nFigure 3.1. Impact of COVID (n=366, 90% of 407 reporting).\n\n\n\n\nSurvey Question: Have the hours you work in a PAID job or internship changed due to COVID-19?\nSummary: A total of 73 (19.9%) students reported not working prior to COVID, while 87 (23.8%) reported that their hours have not changed due to COVID. There were 108 (29.5%) students that had their hours decreased, 68 (18.6%) that no longer had a job/internship, and 30 (8.2%) that had their hours increased."
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html#unpaid-work-hours",
+    "href": "practicewebsite/docs/Workload.html#unpaid-work-hours",
+    "title": "Workload",
+    "section": "Unpaid Work Hours",
+    "text": "Unpaid Work Hours\n\n\n\n\n\n\n\n\n\nSurvey Question: Estimate the number of hours you work in an UNPAID internship (e.g. training, shadowing, practicum, and/or volunteer, etc.) per week. Do not combine with answers above.\nSummary: The average number of unpaid work hours was NA (denoted by the dotted line) and the median was 0. A total of 296 (76.9%) students did not work at an unpaid job/internship, while 60 (15.6%) students reported working 10 or more unpaid hours every week."
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html#unpaid-caregiving-hours",
+    "href": "practicewebsite/docs/Workload.html#unpaid-caregiving-hours",
+    "title": "Workload",
+    "section": "Unpaid Caregiving Hours",
+    "text": "Unpaid Caregiving Hours\n\n\n\n\n\n\n\n\n\nSurvey Question: Estimate the number of hours you spend each week on UNPAID family obligations (e.g. taking care of younger siblings, preparing family meals, running errands for the family, etc.) per week.\nSummary: A total of 0 (NA) students spent time each week caring for family members with an average of NA hours (denoted by the dotted line) and a median of 16-20. There were 59 (15.2%) students that reported spending zero hours per week on family obligations, while 131 (33.9%) reported spending 40 or more hours each week."
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html#academic-workload",
+    "href": "practicewebsite/docs/Workload.html#academic-workload",
+    "title": "Workload",
+    "section": "Academic Workload",
+    "text": "Academic Workload\n\n\n\n\n\nFigure 3.2. Academic Workload (n=393, 97% of 407 reporting).\n\n\n\n\n\n\n[1] 17\n\n\nSurvey Question: How many units are you currently taking?\nAdditional Notes: The hours of academic work per week were estimated by assuming 3 hours of work per unit.\nSummary: The average number of academic hours worked per week was 40.8 hours (denoted by the dotted line), while the median was 42. A total of 206 (52.8%) students spent 40 or more hours per week on academic work."
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html#non-academic-workload",
+    "href": "practicewebsite/docs/Workload.html#non-academic-workload",
+    "title": "Workload",
+    "section": "Non-Academic Workload",
+    "text": "Non-Academic Workload\n\n\n\n\n\n\n\n\n\nSurvey Question: This variable was derived by taking the sum of students’ paid work hours, unpaid work hours, and caregiving hours.\nAdditional Notes: Non-academic workload was calculated only for students who reported their paid work hours, unpaid work hours, and caregiving hours.\nSummary: The average total number of hours worked per week in non-academic matters was 0 hours (denoted by the dotted line), while the median was 0 hours. A total of 0 (0.0%) students spent 40 or more hours per week on non-academic work."
+  },
+  {
+    "objectID": "practicewebsite/docs/Workload.html#total-workload",
+    "href": "practicewebsite/docs/Workload.html#total-workload",
+    "title": "Workload",
+    "section": "Total Workload",
+    "text": "Total Workload\n\n\n\n\n\n\n\n\n\nSurvey Question: This variable was derived by taking the sum of students’ paid work hours, unpaid work hours, caregiving hours, and hours spent from academic activities (assuming 3 hours per unit taken).\nAdditional Notes: Total workload was calculated only for students who reported their paid work hours, unpaid work hours, caregiving hours, and units.\nSummary: The average number of total hours worked per week was 73.55 hours (denoted by the dotted line), while the median was 70.5 hours. A total of 367 (94.1%) students spent 40 or more hours per week on academic and non-academic work, while 145 (37.2%) spent 80 or more hours."
+  },
+  {
+    "objectID": "docs/Workload.html",
+    "href": "docs/Workload.html",
+    "title": "Workload",
+    "section": "",
+    "text": "Students were asked to report information regarding their workload. This includes work from both paid/unpaid jobs, academic work, as well as time spent caregiving for any family members.\nSee Information on Missing Data"
+  },
+  {
+    "objectID": "docs/Workload.html#weekly-paid-work-hours",
+    "href": "docs/Workload.html#weekly-paid-work-hours",
+    "title": "Workload",
+    "section": "Weekly Paid Work Hours",
+    "text": "Weekly Paid Work Hours\n\n\n\n\n\n\n\n\n\n\n\n[1] 20\n\n\nSurvey Question: Estimate the number of hours you work in a PAID job (e.g. server at a restaurant, office assistant, etc.) or paid internship (e.g. training, shadowing, or practicum) per week.\nSummary: Students reported a wide range of paid work hours per week with an average of NA hours (denoted by the dotted line) and a median of 16-20. The majority of students worked either part-time or not at all. Only 51 (13.2%) students were considered to be working full-time (40 or more hours per week)."
+  },
+  {
+    "objectID": "docs/Workload.html#impact-of-covid",
+    "href": "docs/Workload.html#impact-of-covid",
+    "title": "Workload",
+    "section": "Impact of COVID",
+    "text": "Impact of COVID\n\n\n\n\n\nFigure 3.1. Impact of COVID (n=366, 90% of 407 reporting).\n\n\n\n\nSurvey Question: Have the hours you work in a PAID job or internship changed due to COVID-19?\nSummary: A total of 73 (19.9%) students reported not working prior to COVID, while 87 (23.8%) reported that their hours have not changed due to COVID. There were 108 (29.5%) students that had their hours decreased, 68 (18.6%) that no longer had a job/internship, and 30 (8.2%) that had their hours increased."
+  },
+  {
+    "objectID": "docs/Workload.html#unpaid-work-hours",
+    "href": "docs/Workload.html#unpaid-work-hours",
+    "title": "Workload",
+    "section": "Unpaid Work Hours",
+    "text": "Unpaid Work Hours\n\n\n\n\n\n\n\n\n\nSurvey Question: Estimate the number of hours you work in an UNPAID internship (e.g. training, shadowing, practicum, and/or volunteer, etc.) per week. Do not combine with answers above.\nSummary: The average number of unpaid work hours was NA (denoted by the dotted line) and the median was 0. A total of 296 (76.9%) students did not work at an unpaid job/internship, while 60 (15.6%) students reported working 10 or more unpaid hours every week."
+  },
+  {
+    "objectID": "docs/Workload.html#unpaid-caregiving-hours",
+    "href": "docs/Workload.html#unpaid-caregiving-hours",
+    "title": "Workload",
+    "section": "Unpaid Caregiving Hours",
+    "text": "Unpaid Caregiving Hours\n\n\n\n\n\n\n\n\n\nSurvey Question: Estimate the number of hours you spend each week on UNPAID family obligations (e.g. taking care of younger siblings, preparing family meals, running errands for the family, etc.) per week.\nSummary: A total of 0 (NA) students spent time each week caring for family members with an average of NA hours (denoted by the dotted line) and a median of 16-20. There were 59 (15.2%) students that reported spending zero hours per week on family obligations, while 131 (33.9%) reported spending 40 or more hours each week."
+  },
+  {
+    "objectID": "docs/Workload.html#academic-workload",
+    "href": "docs/Workload.html#academic-workload",
+    "title": "Workload",
+    "section": "Academic Workload",
+    "text": "Academic Workload\n\n\n\n\n\nFigure 3.2. Academic Workload (n=393, 97% of 407 reporting).\n\n\n\n\n\n\n[1] 17\n\n\nSurvey Question: How many units are you currently taking?\nAdditional Notes: The hours of academic work per week were estimated by assuming 3 hours of work per unit.\nSummary: The average number of academic hours worked per week was 40.8 hours (denoted by the dotted line), while the median was 42. A total of 206 (52.8%) students spent 40 or more hours per week on academic work."
+  },
+  {
+    "objectID": "docs/Workload.html#non-academic-workload",
+    "href": "docs/Workload.html#non-academic-workload",
+    "title": "Workload",
+    "section": "Non-Academic Workload",
+    "text": "Non-Academic Workload\n\n\n\n\n\n\n\n\n\nSurvey Question: This variable was derived by taking the sum of students’ paid work hours, unpaid work hours, and caregiving hours.\nAdditional Notes: Non-academic workload was calculated only for students who reported their paid work hours, unpaid work hours, and caregiving hours.\nSummary: The average total number of hours worked per week in non-academic matters was 0 hours (denoted by the dotted line), while the median was 0 hours. A total of 0 (0.0%) students spent 40 or more hours per week on non-academic work."
+  },
+  {
+    "objectID": "docs/Workload.html#total-workload",
+    "href": "docs/Workload.html#total-workload",
+    "title": "Workload",
+    "section": "Total Workload",
+    "text": "Total Workload\n\n\n\n\n\n\n\n\n\nSurvey Question: This variable was derived by taking the sum of students’ paid work hours, unpaid work hours, caregiving hours, and hours spent from academic activities (assuming 3 hours per unit taken).\nAdditional Notes: Total workload was calculated only for students who reported their paid work hours, unpaid work hours, caregiving hours, and units.\nSummary: The average number of total hours worked per week was 73.55 hours (denoted by the dotted line), while the median was 70.5 hours. A total of 367 (94.1%) students spent 40 or more hours per week on academic and non-academic work, while 145 (37.2%) spent 80 or more hours."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nThis is my Practice website"
+  },
+  {
+    "objectID": "practicewebsite/about.html",
+    "href": "practicewebsite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nThis is my Practice website"
+  },
+  {
+    "objectID": "practicewebsite/index.html",
+    "href": "practicewebsite/index.html",
+    "title": "practice",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "practice",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

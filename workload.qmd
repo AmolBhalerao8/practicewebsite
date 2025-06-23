@@ -121,7 +121,7 @@ BNSp2b$TotalHours <- tmp2$TotalHours
 
 Students were asked to report information regarding their workload. This includes work from both paid/unpaid jobs, academic work, as well as time spent caregiving for any family members.
 
-*See [Information on Missing Data](index.qmd#md)*
+*See [Information on Missing Data](#md)*
 
 ## Weekly Paid Work Hours
 
@@ -159,9 +159,6 @@ gghistogram(
   ylab("Number of Students") +
   theme_bw()
 
-```
-```{r}
-sum(is.na(BNSp2b$paid_work_hours_clean))
 ```
 
 
@@ -292,10 +289,7 @@ gghistogram(
 gghistogram(tmp2, x = "units", add = "mean", fill = plot_color, alpha = 1) + 
   xlab("Academic Hours Per Week") + ylab("Number of Students")
 ```
-```{r}
-sum(is.na(tmp2$units))
 
-```
 
 **Survey Question:** *How many units are you currently taking?*
 

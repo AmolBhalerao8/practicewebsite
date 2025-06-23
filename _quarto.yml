@@ -8,13 +8,11 @@ project:
 # purple - 
 
 website:
-  title: "BNS3 Statewide"
+  title: "BNS3 Demo"
   navbar:
     background: "#702b84"
     left:
-      - href: index.qmd
-        text: Home
-      - href: Workload.qmd
+      - href: workload.qmd
         text: Workload
 
 format:
